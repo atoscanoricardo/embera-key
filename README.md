@@ -1,5 +1,13 @@
 # Simple Keyboard
 
+- Unzip file simple-keyboard-master.zip
+- Open on editor Android
+- Build
+- Download to celphone
+- Configure instalation 
+- Set Keyboard Embera as keyboard default 
+- Enjoy!
+
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/simple-keyboard/localized.svg)](https://crowdin.com/project/simple-keyboard)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L8UYVTA49G2U2&source=url)
 
