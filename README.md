@@ -10,6 +10,8 @@
 
 [Embera-key en Google Play](https://play.google.com/store/apps/details?id=kikret.simplekeyboard.inputmethod)
 
+This keyboard is based on AOSP LatineIME keyboard. You can get the original source code in https://android.googlesource.com/platform/packages/inputmethods/LatinIME/
+
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/simple-keyboard/localized.svg)](https://crowdin.com/project/simple-keyboard)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L8UYVTA49G2U2&source=url)
 
@@ -45,7 +47,6 @@ Feature it doesn't have and probably will never have:
       height="80">](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod)
 
 ## Credits
-
 Licensed under Apache License Version 2
 
 This keyboard is based on AOSP LatineIME keyboard. You can get the original source code in https://android.googlesource.com/platform/packages/inputmethods/LatinIME/
